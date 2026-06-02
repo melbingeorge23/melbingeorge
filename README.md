@@ -1,6 +1,5 @@
-# Melbin George — Premium Portfolio
+# Melbin George — Portfolio
 
-A responsive premium portfolio website for Melbin George, built with HTML, CSS, and JavaScript.
 
 ## Sections
 
@@ -20,8 +19,3 @@ A responsive premium portfolio website for Melbin George, built with HTML, CSS, 
 - Vanilla JavaScript
 - GitHub Pages ready
 
-## Deployment
-
-This portfolio is ready to deploy using GitHub Pages.
-
-Go to repository **Settings → Pages → Source**, then select the branch you want to publish from.
